@@ -3,6 +3,8 @@
 Este projeto implementa um **ChatBot interativo** utilizando **Streamlit** para frontend e backend, integrado com a **API da OpenAI** para gerar respostas inteligentes.  
 O usuário pode enviar mensagens pelo chat e receber respostas em tempo real de um modelo de linguagem avançado.
 
+Este projeto foi desenvolvido durante o curso **Jornada Python** da [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/), como forma de aplicar conceitos de **Python, Streamlit e APIs de Inteligência Artificial, além de estado de sessão, interação com o usuário e integração com modelos de IA**.
+
 O projeto foi desenvolvido como parte do estudo de **Python, Streamlit e APIs de Inteligência Artificial**, aplicando conceitos de **estado de sessão, interação com usuário e integração com modelos de IA**.
 
 ---
